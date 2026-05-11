@@ -1,1 +1,2 @@
 # Aerofit-Descriptive-Statistics-Probability
+•	Project Description: - Performed descriptive analytics to create a customer profile for each AeroFit treadmill product. The solution constructed two-way contingency tables using pandas crosstab to compute all conditional and marginal probabilities, handled outliers via clipping, and analyzed feature correlations using heatmaps. This significantly identified customer characteristics to provide a better recommendation of the treadmills to new customers.
